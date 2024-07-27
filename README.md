@@ -9,7 +9,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - **Responsive Design:** Optimized for various devices and screen sizes.
 - **Modern UI/UX:** Clean and intuitive design for an excellent user experience.
 - **Project Showcase:** Display of selected projects with descriptions and links.
-- **Contact Form:** Allows visitors to get in touch with me directly from the website.
 - **Social Media Integration:** Links to professional profiles on LinkedIn, GitHub, etc.
 
 ## Technologies Used
