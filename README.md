@@ -18,7 +18,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - **JavaScript:** For interactive elements and functionality.
 - **Bootstrap:** For responsive design and layout.
 - **FontAwesome:** For icons and visual enhancements.
-- **EmailJS:** For handling contact form submissions.
 
 ## Installation
 
