@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences in web development. It serves as an online resume and portfolio, providing an overview of my work and background.
 
-![Portfolio Screenshot](https://yourimageurl.com/screenshot.png) <!-- Replace with an actual screenshot link -->
+![Portfolio Screenshot](img.png) <!-- Replace with an actual screenshot link -->
 
 ## Features
 
